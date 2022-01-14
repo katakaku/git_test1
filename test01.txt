@@ -1,5 +1,7 @@
 3.   Making reservations 
   
+
+  時間を入れる//
 Each reservation will be forwarded to the hotel in question on your behalf by Reconline AG. 
 
 
