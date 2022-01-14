@@ -20,7 +20,7 @@ Arrival time
 Message for the hotel
  
  
-   T R A V E L L E R   
+   トラベラー  
 I am booking the room for myself. Please take my contact details from my account.
   Mr./Mrs./Ms.* First name* isako
   Surname* hayashi Company
